@@ -25,14 +25,6 @@ This lightweight agent uses GPT-4o and LangChain to extract and score clauses fr
 
 ---
 
-## 🚀 Demo (WIP)
-
-> *“Upload a contract. In 30 seconds, get back a table of red flags, scores, and plain-English explanations.”*
-
-![Demo](demo/demo.gif)
-
----
-
 ## 📦 Quickstart
 
 You will need to source an OpenAI Api key to get started, you can source one from https://openai.com/api/
